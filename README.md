@@ -1,5 +1,4 @@
-# walmart-Copy1.ipynb
-Used Keras
+# walmart-Copy1.ipynb Used Keras Dense Neural net
 Business Context:
 The objective is 
 predicting store sales using historical markdown data. 
@@ -92,17 +91,7 @@ average temperature in the region
 Fuel_Price 
 -
 cost of fuel in the region
-AnalytixLabs, 
-Website: 
-www.analytixlabs.co.in
-Email: 
-info@analytixlabs.co.in
-phone: +91
--
-88021
--
-73069
-
+
 MarkDown1
 -
 5 
@@ -124,78 +113,3 @@ t rate
 IsHoliday 
 -
 whether the week is a special holiday week
-For convenience, the four holidays fall within the following weeks in the dataset (not all 
-holidays are in the data):
-
-Super Bowl: 12
--
-Feb
--
-10, 11
--
-Feb
--
-11, 10
--
-Feb
--
-12, 8
--
-Feb
--
-13
-
-Labor Day: 10
--
-Sep
--
-10, 
-9
--
-Sep
--
-11, 7
--
-Sep
--
-12, 6
--
-Sep
--
-13
-
-Thanksgiving: 26
--
-Nov
--
-10, 25
--
-Nov
--
-11, 23
--
-Nov
--
-12, 29
--
-Nov
--
-13
-
-Christmas: 31
--
-Dec
--
-10, 30
--
-Dec
--
-11, 28
--
-Dec
--
-12, 27
--
-Dec
--
-13
