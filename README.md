@@ -1,4 +1,6 @@
-# walmart-Copy1.ipynb Used Keras Dense Neural net
+# walmart-Copy1.ipynb Used Keras Dense Neural net. Didn't use LSTM because there was only one day data in the test
+
+
 Business Context:
 The objective is 
 predicting store sales using historical markdown data. 
